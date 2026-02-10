@@ -6,7 +6,7 @@ The Akan Name Generator is a simple web application that calculates the day of t
 This project demonstrates the use of JavaScript functions, arrays, control flow, user input validation, and basic web development concepts using HTML, CSS, and JavaScript.
 
 ## Author
-**Name:** Your Name Here  
+**Mathew KIOKO:** Your Name Here  
 **GitHub:** https://github.com/your-username  
 
 ## Live Site
