@@ -9,7 +9,7 @@ This project demonstrates the use of JavaScript functions, arrays, control flow,
 **Mathew KIOKO:** Your Name Here  
 **GitHub:** kiokomathew85-dev 
 
-## Live Site
+## Live Site  https://kiokomathew85-dev.github.io/akan-name-generator./
 🔗 **Live Demo:** 
 
 ## Project Setup Instructions
