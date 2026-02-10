@@ -7,7 +7,7 @@ This project demonstrates the use of JavaScript functions, arrays, control flow,
 
 ## Author
 **Mathew KIOKO:** Your Name Here  
-**GitHub:** https://github.com/your-username  
+**GitHub:** kiokomathew85-dev 
 
 ## Live Site
 🔗 **Live Demo:** 
